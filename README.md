@@ -136,11 +136,13 @@ PDF Report Generation
 
 ```bash
 pip install -r requirements.txt
+```
 
 2.运行项目:
 
 ```bash
 streamlit run app.py
+```
 
 3.上传MAT文件 → 自动分析 → 生成AI报告 → 下载PDF科研报告
 
